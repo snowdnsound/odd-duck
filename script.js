@@ -2,6 +2,6 @@ productArray.push(bag, banana, bathroom, boots, breakfast, bubblegum, chair, cth
 let productNames = ['bag', 'banana'];
 console.log('product names, ',productNames);
 for(let){
-
+dataviz
 }
 }
