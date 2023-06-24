@@ -1,2 +1,5 @@
 # odd-duck
-Odd Duck Products
+# Odd Duck Products Co
+
+## Lighthouse Score
+

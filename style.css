@@ -23,30 +23,42 @@ body {
   
   #img1, #img2, #img3 {
     display: flex;
-    /* justify-content: space-between; */
     max-height: 200px;
     padding: 3em;
   }
   
   #displayImages {
     background-color: #f4fbc8;
-    max-width: 80%;
+    max-width: 85%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
   }
 
+  #img1{
+    border: transparent 1px;
+}
+
+#img2{
+    border: transparent 1px;
+}
+
+#img3{
+    border: transparent 1px;
+}
+
   #img1:hover{
-    border:solid #000000;; 2px;
+    border:solid #000000 1px;
 }
 
 #img2:hover{
-    border:solid #000000;; 2px;
+    border:solid #000000 1px;
 }
 
 #img3:hover{
-    border:solid #000000;; 2px;
+    border:solid #000000 1px;
 }
+
   
   #btn {
     font-family: 'Fascinate', cursive;
