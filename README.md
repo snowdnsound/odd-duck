@@ -3,3 +3,4 @@
 
 ## Lighthouse Score
 
+![Lighthouse Score](img/lighthouse.png).
